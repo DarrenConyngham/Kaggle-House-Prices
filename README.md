@@ -1,2 +1,2 @@
 # Kaggle-House-Prices
-Contains the code for two submissions made to the "House Prices: Advanced Regression Techniques" Kaggle competition.
+This project is contains the code and the data for two submissions made to the ["House Prices: Advanced Regression Techniques" Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). The ["Predicting Housing Prices Version 11 GridSearchCv.ipynb"](https://github.com/DarrenConyngham/Kaggle-House-Prices/blob/master/Predicting%20Housing%20Prices%20Version%2011%20GridSearchCv.ipynb) was the best performing model with a Root-Mean-Squared-Error for the public Kaggle score of 0.13297. [Here](https://www.kaggle.com/cccmmmddd) is the link to my Kaggle profile. 
